@@ -14,7 +14,7 @@
 
 const assert = require('assert');
 
-const ActionBuilder = require('../src/cli/action_builder.js');
+const { ActionBuilder } = require('../index.js');
 
 describe('Action Builder Test - Env', () => {
   it('writes proper env', () => {

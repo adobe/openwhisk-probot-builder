@@ -16,7 +16,7 @@
 const assert = require('assert');
 const path = require('path');
 
-const ActionBuilder = require('../src/cli/action_builder.js');
+const { ActionBuilder } = require('../index.js');
 
 describe('Action Builder Test - Params', () => {
   it('can set 1 env param', () => {

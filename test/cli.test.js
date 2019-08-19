@@ -15,7 +15,7 @@
 
 const assert = require('assert');
 
-const CLI = require('../src/cli/cli.js');
+const { CLI } = require('../index.js');
 
 // we only thest own own params. the rest is tested in openwhisk-action-builder
 describe('CLI Test', () => {

@@ -28,7 +28,7 @@ class CLI extends OWCLI {
 
   // eslint-disable-next-line class-methods-use-this
   _epiloge() {
-    return 'for more information, find our manual at https://github.com/adobe/probot-serverless-openwhisk';
+    return 'for more information, find our manual at https://github.com/adobe/openwhisk-probot-builder';
   }
 
   // eslint-disable-next-line class-methods-use-this
