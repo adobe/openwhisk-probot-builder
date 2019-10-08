@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/adobe/openwhisk-probot-builder/compare/v1.0.1...v1.0.2) (2019-10-08)
+
+
+### Bug Fixes
+
+* **package:** update probot to version 9.5.1 ([06944e8](https://github.com/adobe/openwhisk-probot-builder/commit/06944e8))
+
 ## [1.0.1](https://github.com/adobe/openwhisk-probot-builder/compare/v1.0.0...v1.0.1) (2019-09-02)
 
 
