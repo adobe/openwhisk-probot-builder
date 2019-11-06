@@ -21,12 +21,12 @@
     "lint": "./node_modules/.bin/eslint ."
   },
   "dependencies": {
-    "@adobe/openwhisk-action-builder": "2.1.1",
+    "@adobe/openwhisk-action-builder": "2.2.1",
     "chalk": "^2.4.1",
     "dotenv": "^8.1.0",
     "express": "^4.17.1",
     "fs-extra": "^8.1.0",
-    "probot": "9.6.3"
+    "probot": "9.6.4"
   },
   "devDependencies": {
     "@semantic-release/changelog": "3.0.5",
