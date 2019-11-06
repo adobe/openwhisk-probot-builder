@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/adobe/openwhisk-probot-builder/compare/v1.0.4...v1.0.5) (2019-11-06)
+
+
+### Bug Fixes
+
+* **release:** trigger release ([819a916](https://github.com/adobe/openwhisk-probot-builder/commit/819a9160d2379dc167c8131e0e19c5c05b54ba0d))
+
 ## [1.0.4](https://github.com/adobe/openwhisk-probot-builder/compare/v1.0.3...v1.0.4) (2019-11-06)
 
 
