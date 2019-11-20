@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/adobe/openwhisk-probot-builder/compare/v1.0.6...v1.0.7) (2019-11-20)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @adobe/openwhisk-action-builder to v2.3.1 ([#25](https://github.com/adobe/openwhisk-probot-builder/issues/25)) ([5a9150d](https://github.com/adobe/openwhisk-probot-builder/commit/5a9150da5afd9061d317b3e666a1ed4a67f328de))
+
 ## [1.0.6](https://github.com/adobe/openwhisk-probot-builder/compare/v1.0.5...v1.0.6) (2019-11-20)
 
 
