@@ -1,3 +1,10 @@
+## [1.0.20](https://github.com/adobe/openwhisk-probot-builder/compare/v1.0.19...v1.0.20) (2020-03-23)
+
+
+### Bug Fixes
+
+* **deps:** update dependency fs-extra to v9 ([#58](https://github.com/adobe/openwhisk-probot-builder/issues/58)) ([a85bba4](https://github.com/adobe/openwhisk-probot-builder/commit/a85bba49af2becd372e6919d25af69f6bdfc3b83))
+
 ## [1.0.19](https://github.com/adobe/openwhisk-probot-builder/compare/v1.0.18...v1.0.19) (2020-03-17)
 
 
