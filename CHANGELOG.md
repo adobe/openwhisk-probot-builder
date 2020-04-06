@@ -1,3 +1,10 @@
+## [1.0.22](https://github.com/adobe/openwhisk-probot-builder/compare/v1.0.21...v1.0.22) (2020-04-06)
+
+
+### Bug Fixes
+
+* **deps:** update dependency chalk to v4 ([#61](https://github.com/adobe/openwhisk-probot-builder/issues/61)) ([fff28b1](https://github.com/adobe/openwhisk-probot-builder/commit/fff28b1bc9c61da123aa6b38288b5f26f9f40ee2))
+
 ## [1.0.21](https://github.com/adobe/openwhisk-probot-builder/compare/v1.0.20...v1.0.21) (2020-03-23)
 
 
