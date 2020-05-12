@@ -3,8 +3,13 @@
   "version": "1.0.26",
   "description": "Probot Serverless OpenWisk",
   "license": "Apache-2.0",
-  "repository": "https://github.com/adobe/openwhisk-probot-builder",
-  "bugs": "https://github.com/adobe/openwhisk-probot-builder/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adobe/openwhisk-probot-builder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adobe/openwhisk-probot-builder/issues"
+  },
   "keywords": [
     "probot",
     "github",
@@ -56,5 +61,6 @@
     "ghooks": {
       "pre-commit": "npx lint-staged"
     }
-  }
+  },
+  "homepage": "https://github.com/adobe/openwhisk-probot-builder#readme"
 }
