@@ -10,7 +10,7 @@ probot app into an OpenWhisk action.
 [![GitHub issues](https://img.shields.io/github/issues/adobe/openwhisk-probot-builder.svg)](https://github.com/adobe/openwhisk-probot-builder/issues)
 [![CircleCI](https://img.shields.io/circleci/project/github/adobe/openwhisk-probot-builder.svg)](https://circleci.com/gh/adobe/openwhisk-probot-builder)
 [![codecov](https://img.shields.io/codecov/c/github/adobe/openwhisk-probot-builder.svg)](https://codecov.io/gh/adobe/openwhisk-probot-builder)
-[![Greenkeeper badge](https://badges.greenkeeper.io/adobe/openwhisk-probot-builder.svg)](https://greenkeeper.io/)
+
 [![LGTM Code Quality Grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/adobe/openwhisk-probot-builder.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/adobe/openwhisk-probot-builder)
 
 ## Usage
