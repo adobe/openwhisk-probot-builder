@@ -1,3 +1,10 @@
+## [1.0.35](https://github.com/adobe/openwhisk-probot-builder/compare/v1.0.34...v1.0.35) (2020-08-24)
+
+
+### Bug Fixes
+
+* **deps:** update dependency probot to v9.14.1 ([#97](https://github.com/adobe/openwhisk-probot-builder/issues/97)) ([b4d3612](https://github.com/adobe/openwhisk-probot-builder/commit/b4d361294f17a7c963ac0abad88df325962ffc7c))
+
 ## [1.0.34](https://github.com/adobe/openwhisk-probot-builder/compare/v1.0.33...v1.0.34) (2020-07-27)
 
 
