@@ -13,7 +13,7 @@
 const fse = require('fs-extra');
 const OWActionBuilder = require('@adobe/openwhisk-action-builder').ActionBuilder;
 const chalk = require('chalk');
-const { findPrivateKey } = require('probot/lib/private-key');
+const { findPrivateKey } = require('probot/lib/helpers/get-private-key');
 const dotenv = require('dotenv');
 const { version } = require('../package.json');
 
