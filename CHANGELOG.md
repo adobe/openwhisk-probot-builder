@@ -1,3 +1,10 @@
+## [1.0.37](https://github.com/adobe/openwhisk-probot-builder/compare/v1.0.36...v1.0.37) (2020-09-10)
+
+
+### Bug Fixes
+
+* **deps:** update external (major) ([#101](https://github.com/adobe/openwhisk-probot-builder/issues/101)) ([d4e2103](https://github.com/adobe/openwhisk-probot-builder/commit/d4e21031c3fb80befdfeaa71eafa191584b10d58))
+
 ## [1.0.36](https://github.com/adobe/openwhisk-probot-builder/compare/v1.0.35...v1.0.36) (2020-08-27)
 
 
