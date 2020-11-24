@@ -13,7 +13,7 @@
 const fse = require('fs-extra');
 const OWActionBuilder = require('@adobe/openwhisk-action-builder').ActionBuilder;
 const chalk = require('chalk');
-const { findPrivateKey } = require('probot/lib/helpers/get-private-key');
+const { getPrivateKey } = require('@probot/get-private-key');
 const dotenv = require('dotenv');
 const { version } = require('../package.json');
 
@@ -34,7 +34,7 @@ module.exports = class ActionBuilder extends OWActionBuilder {
   async validate() {
     await super.validate();
     if (!this._privateKey) {
-      this._privateKey = findPrivateKey();
+      this._privateKey = getPrivateKey();
     }
     if (!this._privateKey) {
       this.log.warn(chalk`{yellow warn:} No Github-App private key set and none can be found in your directory.
