@@ -6,7 +6,7 @@ be translated into a probot event. This package offers an easy wrapper to turn a
 probot app into an OpenWhisk action.
 
 ## Status
-[![GitHub license](https://img.shields.io/github/license/adobe/openwhisk-probot-builder.svg)](https://github.com/adobe/openwhisk-probot-builder/blob/master/LICENSE.txt)
+[![GitHub license](https://img.shields.io/github/license/adobe/openwhisk-probot-builder.svg)](https://github.com/adobe/openwhisk-probot-builder/blob/main/LICENSE.txt)
 [![GitHub issues](https://img.shields.io/github/issues/adobe/openwhisk-probot-builder.svg)](https://github.com/adobe/openwhisk-probot-builder/issues)
 [![CircleCI](https://img.shields.io/circleci/project/github/adobe/openwhisk-probot-builder.svg)](https://circleci.com/gh/adobe/openwhisk-probot-builder)
 [![codecov](https://img.shields.io/codecov/c/github/adobe/openwhisk-probot-builder.svg)](https://codecov.io/gh/adobe/openwhisk-probot-builder)
