@@ -1,6 +1,6 @@
 {
   "name": "@adobe/openwhisk-probot-builder",
-  "version": "1.0.41",
+  "version": "1.0.42",
   "description": "Probot Serverless OpenWisk",
   "license": "Apache-2.0",
   "repository": {
