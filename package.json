@@ -28,10 +28,10 @@
   "dependencies": {
     "@adobe/openwhisk-action-builder": "2.15.1",
     "@probot/get-private-key": "1.1.0",
-    "chalk": "^4.0.0",
-    "dotenv": "^8.1.0",
-    "express": "^4.17.1",
-    "fs-extra": "^9.0.0",
+    "chalk": "4.1.0",
+    "dotenv": "8.2.0",
+    "express": "4.17.1",
+    "fs-extra": "9.0.1",
     "probot": "11.0.1"
   },
   "devDependencies": {
