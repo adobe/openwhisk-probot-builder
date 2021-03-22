@@ -26,7 +26,7 @@
     "lint": "./node_modules/.bin/eslint ."
   },
   "dependencies": {
-    "@adobe/openwhisk-action-builder": "3.0.15",
+    "@adobe/openwhisk-action-builder": "3.0.16",
     "@probot/get-private-key": "1.1.0",
     "chalk": "4.1.0",
     "dotenv": "8.2.0",
